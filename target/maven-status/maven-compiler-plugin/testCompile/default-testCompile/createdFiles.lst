@@ -1,0 +1,13 @@
+MainTest.class
+UserTest.class
+CustomerTest.class
+HotelManagerTest.class
+EmailServiceTest.class
+UserManagerTest.class
+MenuItemTest.class
+RoomTest.class
+FoodTest.class
+BillingTest.class
+ReservationTest.class
+PaymentTest.class
+ReportGeneratorTest.class

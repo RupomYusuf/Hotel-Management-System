@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-19T19:16:10Z" name="Surefire suite" finished-at="2025-05-19T19:16:10Z" duration-ms="135">
+    <groups>
+    </groups>
+    <test started-at="2025-05-19T19:16:10Z" name="Surefire test" finished-at="2025-05-19T19:16:10Z" duration-ms="135">
+      <class name="MainTest">
+        <test-method signature="testGetRoomTypeFromChoice_PriceConsistency()[pri:0, instance:testGetRoomTypeFromChoice_PriceConsistency(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_PriceConsistency" finished-at="2025-05-20T01:16:10Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_PriceConsistency -->
+        <test-method signature="testGetRoomTypeFromChoice_Consistency()[pri:0, instance:testGetRoomTypeFromChoice_Consistency(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_Consistency" finished-at="2025-05-20T01:16:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_Consistency -->
+        <test-method signature="testGetRoomTypeFromChoice_InvalidChoice()[pri:0, instance:testGetRoomTypeFromChoice_InvalidChoice(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_InvalidChoice" finished-at="2025-05-20T01:16:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_InvalidChoice -->
+        <test-method signature="testGetRoomTypeFromChoice_FormatConsistency()[pri:0, instance:testGetRoomTypeFromChoice_FormatConsistency(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_FormatConsistency" finished-at="2025-05-20T01:16:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_FormatConsistency -->
+        <test-method signature="testGetRoomTypeFromChoice_Performance()[pri:0, instance:testGetRoomTypeFromChoice_Performance(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_Performance" finished-at="2025-05-20T01:16:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_Performance -->
+        <test-method signature="testGetRoomTypeFromChoice_BoundaryValues()[pri:0, instance:testGetRoomTypeFromChoice_BoundaryValues(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_BoundaryValues" finished-at="2025-05-20T01:16:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_BoundaryValues -->
+        <test-method signature="testGetRoomTypeFromChoice_AllValidTypes()[pri:0, instance:testGetRoomTypeFromChoice_AllValidTypes(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_AllValidTypes" finished-at="2025-05-20T01:16:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_AllValidTypes -->
+        <test-method signature="testGetRoomTypeFromChoice_EdgeCases()[pri:0, instance:testGetRoomTypeFromChoice_EdgeCases(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_EdgeCases" finished-at="2025-05-20T01:16:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_EdgeCases -->
+        <test-method signature="testGetRoomTypeFromChoice_ValidChoices()[pri:0, instance:testGetRoomTypeFromChoice_ValidChoices(MainTest)]" started-at="2025-05-20T01:16:10Z" name="testGetRoomTypeFromChoice_ValidChoices" finished-at="2025-05-20T01:16:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoomTypeFromChoice_ValidChoices -->
+      </class> <!-- MainTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

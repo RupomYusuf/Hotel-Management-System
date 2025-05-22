@@ -1,0 +1,16 @@
+Reservation.class
+MenuItem.class
+Room.class
+HotelManager.class
+Payment.class
+Payment$PaymentMethod.class
+User$UserRole.class
+Billing.class
+Customer.class
+Main.class
+UserManager.class
+Payment$PaymentStatus.class
+ReportGenerator.class
+User.class
+EmailService.class
+Food.class
